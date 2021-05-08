@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
 title: Learn English
-description: On this site you can find exercises which will help you learn english languagage.
+description: On this site you can find exercises which will help you learn english language.
 
 # theme-specific configuration
 show_downloads: false
 github:
   is_project_page: false
   is_user_page: false
-# logo: assets/img/logo.png
+logo: assets/img/logo.png
